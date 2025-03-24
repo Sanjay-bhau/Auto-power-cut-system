@@ -1,2 +1,2 @@
-# Auto-power-cut-system
-Automatic power cuts the electricity when there is no one surrounding.
+# Arduino_project
+complete code of auto power-cut system!!
